@@ -1,0 +1,3 @@
+#shican -spi
+bigCar=com.shican.spi.car.impl.BigCar
+smallCar=com.shican.spi.car.impl.SmallCar
